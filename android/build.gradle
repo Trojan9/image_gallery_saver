@@ -35,7 +35,7 @@ android {
         minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
-    kotlinOptions {Add commentMore actions
+    kotlinOptions {
         jvmTarget = "1.8"
     }
     lintOptions {
